@@ -54,6 +54,5 @@
 | ABC      | Soft Engineer|
 | ABC      | Soft Engineer|
 | ABC      | Soft Engineer|
-|----------|--------------|
 
 
