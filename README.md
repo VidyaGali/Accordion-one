@@ -5,7 +5,7 @@
 ##### Project State 
 ###### State
 
---- Horizontal Line ---
+---Horizontal Line---
 **Bold**
 
 **My project has been started a year ago**
