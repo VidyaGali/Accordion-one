@@ -55,4 +55,10 @@
 | ABC      | Soft Engineer|
 | ABC      | Soft Engineer|
 
-
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
