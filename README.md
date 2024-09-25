@@ -44,3 +44,9 @@
 --- ---
 **image**
 ![pixel images](me.jpg)
+
+--- ---
+**Table**
+| Name | Title |
+----------------
+| Personal | Portfolio |
