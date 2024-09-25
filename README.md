@@ -5,5 +5,5 @@
 ##### Project State 
 ###### State
 
-**Bold*
+**Bold**
   **My project has been started a year ago**
